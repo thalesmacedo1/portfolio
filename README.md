@@ -1,2 +1,2 @@
-# portfolio
-1st portfolio project
+# Portfolio
+1st Portfolio Project
